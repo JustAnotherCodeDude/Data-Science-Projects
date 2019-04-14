@@ -1,1 +1,3 @@
-# Usage of Whoosh indexing and improvements made
+# Information Retrieval Assignment
+
+Please read PDF for assignment specifics
